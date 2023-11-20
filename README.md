@@ -22,4 +22,4 @@ We welcome contributions from all individuals who are interested in improving Do
 2. **Clone the Repository:**
    Clone the forked repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/Docs-Searcher.git
+   git clone https://github.com/hamzatechie/first.git
